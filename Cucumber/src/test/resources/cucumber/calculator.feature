@@ -5,8 +5,6 @@ Feature: Calculator
 
 @storykey=abc-12
 @testcasekey=abc-31
-@newtag1
-@newtag2
     Scenario Outline: Add two numbers
     Given I have a calculator
     When I add <num1> and <num2>
@@ -15,4 +13,4 @@ Feature: Calculator
 	Examples: 
     | num1 | num2 | total |
     | 2 | 3 | 5 |
-    | 10 | 15 | 25 |
+    | 10 | 15 | 22 |
