@@ -12,5 +12,5 @@ Feature: Calculator
     
 	Examples: 
     | num1 | num2 | total |
-    | 2 | 3 | 5 |
-    | 10 | 15 | 22 |
+    | 2 | 3 | 5 |/durgesh045/new/blob/dependabot/maven
+    | 10 | 15 | 28 |
